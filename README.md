@@ -1,6 +1,6 @@
 # Multi-Agent Research Assistant
 
-**Real web search + AI APIs + PDF analysis in one simple file.**
+**Real web search + AI APIs + PDF analysis in one simple file. A unified tool for live web search, AI summarization, and PDF analysis—combining DuckDuckGo, arXiv, Reddit, and OpenAI with built-in fallback and real content extraction.**
 
 ## 🌐 **Real Web Integration**
 
