@@ -1,0 +1,22 @@
+# Multi-Agent Research Assistant - Enhanced Requirements
+
+# Core Dependencies (Required)
+aiohttp>=3.8.0          # Async HTTP requests
+beautifulsoup4>=4.12.0  # HTML parsing and content extraction
+requests>=2.31.0        # HTTP requests fallback
+lxml>=4.9.0            # XML parsing for APIs
+
+# PDF Processing (Install at least one)
+PyPDF2>=3.0.0          # Basic PDF processing
+PyMuPDF>=1.23.0        # Advanced PDF processing (recommended)
+
+# AI Enhancement (Optional but recommended)
+openai>=1.0.0          # OpenAI API for intelligent summarization
+
+# Additional parsing support
+html5lib>=1.1          # Robust HTML parsing
+python-dateutil>=2.8.0 # Date parsing utilities
+
+# Optional: For advanced web scraping
+selenium>=4.0.0        # Dynamic content (if needed)
+fake-useragent>=1.4.0  # Rotating user agents
